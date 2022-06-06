@@ -4,4 +4,4 @@ Included in this repository is the Jupyter Notebook and link the Google Colabora
 
 ## Linked Pages
 * [Using Python in Business Research Jupyter Notbook](https://github.com/lsimpsonlibrary/example_python_code/blob/f9d3ba67fedb0df3e04a45ba9fc0ad072e3a2034/business_python_workshop_spring_2022.ipynb)
-* [Access the Notebook in Goole Colab](https://colab.research.google.com/github/lsimpsonlibrary/example_python_code/blob/main/business_python_workshop_spring_2022.ipynb)
+* [Access the Notebook in Google Colab](https://colab.research.google.com/github/lsimpsonlibrary/example_python_code/blob/main/business_python_workshop_spring_2022.ipynb)
